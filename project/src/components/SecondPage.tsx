@@ -42,14 +42,14 @@ const popupData: PopupContent[] = [
     month: "July",
     title: "My wifey",
     content:
-      "My wifey is perfect, those disney princesses with pretty eyes and smile ✨",
+      "My wifey is perfect like those disney princesses with pretty eyes and smile out of fairy tale ✨ ",
     image: july
   },
   {
     month: "August",
     title: "Blooming Love 🌹",
     content:
-      "Promising you flowers 🌷 and making fresh memories with you 🌼💞",
+      "Promising you flowers everyday my love, you deserve the best 🌼💞",
     image: august
   }
 ];
