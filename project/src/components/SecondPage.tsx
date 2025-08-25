@@ -21,35 +21,35 @@ const popupData: PopupContent[] = [
     month: "April",
     title: "Soul Mates 💞",
     content:
-      "With you, I feel the magic of belongingness 🌸... my forever home is by your side 🤗❤️",
+      "With you I feel I am home 🌸 ... We met one day and together and forever now ❤️",
     image: april
   },
   {
     month: "May",
     title: "Whispers of Love 💌",
     content:
-      "No words could ever capture how deeply I feel for you, my love... 💕 Every heartbeat is a poem written just for us ✨",
+      "I was so excited to write and express which I couldn't put into words because the feeling is blissful ✨",
     image: may
   },
   {
     month: "June",
     title: "Light & Warmth ☀️",
     content:
-      "You are my guiding star 🌟, my sunshine through the storms ... always keep shining, my better half 💖",
+      "You are my guiding star 🌟 and You are my bubbly always smiling better half 💖",
     image: june
   },
   {
     month: "July",
-    title: "Queen of My Heart 👑",
+    title: "My wifey",
     content:
-      "My wifey, my crown, my joy 👸💝... every vow with you is a promise I’ll cherish forever 💍✨",
+      "My wifey is perfect, those disney princesses with pretty eyes and smile ✨",
     image: july
   },
   {
     month: "August",
     title: "Blooming Love 🌹",
     content:
-      "Like fresh flowers in the morning dew 🌷, you bring sweetness and freshness to my life forever 🌼💞",
+      "Promising you flowers 🌷 and making fresh memories with you 🌼💞",
     image: august
   }
 ];
