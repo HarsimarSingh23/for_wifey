@@ -29,7 +29,7 @@ const LandingPage = () => {
         {/* Title and Subtitle */}
         <div className="text-center mb-10 space-y-4">
           <h1 className="text-3xl md:text-5xl font-light tracking-wide drop-shadow-2xl text-white/90 leading-relaxed">
-            An old school marriage with a whole new modern love life
+            An old school marriage with a whole new modern love vibe
           </h1>
           <p className="text-xl md:text-2xl text-white/80 font-light tracking-wider drop-shadow-lg">
             Moments of Love
