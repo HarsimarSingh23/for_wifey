@@ -2,7 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Heart } from 'lucide-react';
 import SakuraAnimation from './SakuraAnimation';
-import CoupleImage from '../assets/couple_2.png';
+import CoupleImage from '../assets/couple_3.png';
 
 const LandingPage = () => {
   const navigate = useNavigate();
